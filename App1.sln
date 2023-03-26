@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1.csproj", "{20C5A822-DD5A-4B8B-8C08-2335010BD63A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferAndroidApp", "OfferAndroidApp.csproj", "{20C5A822-DD5A-4B8B-8C08-2335010BD63A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
