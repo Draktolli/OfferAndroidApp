@@ -25,7 +25,6 @@ namespace App1.Buisness
 			using (var client = new HttpClient())
 			{
 				var response = await client.GetAsync("http://partner.market.yandex.ru/pages/help/YML.xml");
-				//OfferMapper mapper = new OfferMapper();
 				Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
 				if (!response.IsSuccessStatusCode)
